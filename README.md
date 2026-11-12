@@ -1,6 +1,6 @@
 # Gnananetra Marketplace
 
-A multi-seller store in the style of Flipkart or Amazon: businesses apply to sell, the team approves them, they list products and ship orders, shoppers buy from many stores in one checkout, and the marketplace keeps a commission. Built on the Gnananetra shop (same checkout, GST invoice, admin, and oversell-proof stock), with a seller layer added. Not deployed.
+A multi-seller store in the style of Flipkart or Amazon: businesses apply to sell, the team approves them, they list products and ship orders, shoppers buy from many stores in one checkout, and the marketplace keeps a commission. Built on the Gnananetra shop (same checkout, GST invoice, admin, and oversell-proof stock), with a seller layer added. Live at https://marketplace.gnananetra.com.
 
 Next.js 16, Cloudflare Workers, D1 (SQLite via Drizzle), Tailwind 4. Same colours and logo as the shop.
 

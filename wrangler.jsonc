@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  // Gnananetra Marketplace. NOT deployed. The Cloudflare account is shared with other live apps
+  // Gnananetra Marketplace. Deployed at marketplace.gnananetra.com. The Cloudflare account is shared with other live apps
   // (gnananetra, crm-production, gnananetra-digital-estamp, gncs-tracker-api): keep this name unique.
   "name": "gnananetra-marketplace",
   "main": ".open-next/worker.js",
@@ -8,14 +8,15 @@
   "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
   "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
   "services": [{ "binding": "WORKER_SELF_REFERENCE", "service": "gnananetra-marketplace" }],
+  "routes": [{ "pattern": "marketplace.gnananetra.com", "custom_domain": true }],
   "observability": { "enabled": true },
   "d1_databases": [
-    { "binding": "DB", "database_name": "gnananetra-marketplace", "database_id": "REPLACE_WITH_D1_ID", "migrations_dir": "drizzle" },
-    { "binding": "NEXT_TAG_CACHE_D1", "database_name": "gnananetra-marketplace-tags", "database_id": "REPLACE_WITH_TAGS_D1_ID" }
+    { "binding": "DB", "database_name": "gnananetra-marketplace", "database_id": "c63f25ff-b571-480c-b6d3-045dfa0ac6aa", "migrations_dir": "drizzle" },
+    { "binding": "NEXT_TAG_CACHE_D1", "database_name": "gnananetra-marketplace-tags", "database_id": "455b9457-8251-4ab2-bd90-f4a6af95a9c3" }
   ],
   "r2_buckets": [
     { "binding": "NEXT_INC_CACHE_R2_BUCKET", "bucket_name": "gnananetra-marketplace-cache" },
     { "binding": "MEDIA", "bucket_name": "gnananetra-marketplace-media" }
   ],
-  "vars": { "NEXT_PUBLIC_SITE_URL": "http://localhost:3002", "EMAIL_FROM": "Gnananetra <orders@gnananetra.com>" }
+  "vars": { "NEXT_PUBLIC_SITE_URL": "https://marketplace.gnananetra.com", "EMAIL_FROM": "Gnananetra <orders@gnananetra.com>" }
 }
