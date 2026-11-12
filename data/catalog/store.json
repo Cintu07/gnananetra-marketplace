@@ -1,0 +1,25 @@
+{
+ "map_embed": null,
+ "settings": {
+  "woocommerce_store_address": "D.No: 76-15-23A",
+  "woocommerce_store_address_2": "Ring Road, Near Varun Motors Maruthi Suzuki Showroom, Bhavanipuram",
+  "woocommerce_store_city": "Vijayawada",
+  "woocommerce_default_country": "IN:AP",
+  "woocommerce_store_postcode": "520012",
+  "woocommerce_allowed_countries": "all",
+  "woocommerce_all_except_countries": [],
+  "woocommerce_specific_allowed_countries": [],
+  "woocommerce_ship_to_countries": "",
+  "woocommerce_specific_ship_to_countries": [],
+  "woocommerce_default_customer_address": "base",
+  "woocommerce_address_autocomplete_enabled": "no",
+  "woocommerce_calc_taxes": "no",
+  "woocommerce_enable_coupons": "yes",
+  "woocommerce_calc_discounts_sequentially": "no",
+  "woocommerce_currency": "INR",
+  "woocommerce_currency_pos": "left",
+  "woocommerce_price_thousand_sep": ",",
+  "woocommerce_price_decimal_sep": ".",
+  "woocommerce_price_num_decimals": "2"
+ }
+}

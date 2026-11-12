@@ -1,0 +1,32 @@
+[
+ {
+  "slug": "shipping-policy",
+  "title": "Shipping policy",
+  "content_html": "<p><strong>Gnananetra Industries Private Limited</strong> delivers products across India using reliable courier and logistics partners. Once an order is placed and verified, we usually process and dispatch it within <strong>1-3 working days</strong>.</p><p>Delivery timelines vary depending on the destination, product availability, and courier service. Customers receive tracking details via email or SMS once the order is shipped.</p><p>In case of delays caused by unforeseen events such as festivals, strikes, weather conditions, or courier issues, we request your patience and understanding. If an order is undeliverable due to incorrect shipping information, the customer may be responsible for re-shipment charges.</p>",
+  "wp_slug": "shipping-policy"
+ },
+ {
+  "slug": "terms",
+  "title": "Terms and conditions",
+  "content_html": "<p>Welcome to the official website of Gnananetra Industries Private Limited. By accessing and using this website, you agree to abide by the following terms and conditions.</p><p>All product images, descriptions, and prices are provided for reference and may vary slightly based on availability or manufacturer updates. We reserve the right to modify, update, or discontinue any product or service at any time without prior notice.</p><p>Users are responsible for maintaining the confidentiality of their login credentials and for all activities carried out under their account. Any misuse, illegal activity, or violation of website rules may result in restricted access.</p><p>All purchases made on our website are subject to our <strong>shipping</strong>, <strong>return</strong>, and <strong>cancellation</strong> policies. Gnananetra Industries Private Limited reserves the right to cancel orders due to stock issues, pricing errors, or fraudulent activity.</p>",
+  "wp_slug": "terms-conditions"
+ },
+ {
+  "slug": "returns",
+  "title": "Return and cancellation policy",
+  "content_html": "<p><strong>Gnananetra Industries Private Limited</strong> prioritizes customer satisfaction. If you receive a damaged, defective, or incorrect product, please inform us within <strong>48 hours of delivery</strong> along with photo/video proof.</p><p>A return or replacement will be processed only after verification. Products must be unused, in original packaging, and accompanied by the invoice.</p><p><strong>Returns may not be accepted for:</strong></p><ul><li>Used or opened products</li><li>Items damaged due to customer mishandling</li><li>Non-returnable items such as consumables or products covered under manufacturer warranty</li></ul><p><strong>Cancellations:</strong><br>Orders can be cancelled <strong>before dispatch</strong>. Once shipped, cancellations are not possible.</p><p><strong>Refunds:</strong><br>Eligible refunds will be processed to the original payment method within <strong>5-7 working days</strong>.</p><p>For return or cancellation assistance, email <strong>gncs1612@gmail.com</strong> or call <strong>9154 80 7754</strong>.</p>",
+  "wp_slug": "return-and-refund-policy"
+ },
+ {
+  "slug": "privacy",
+  "title": "Privacy policy",
+  "content_html": "<p><strong>Gnananetra Industries Private Limited</strong> values your trust and is committed to protecting your personal information. When you interact with our website, we collect certain details such as your name, contact information, billing/shipping address, and payment-related data. This information is used only to process your orders, improve your shopping experience, and provide timely customer support.</p><p>We do not sell, share, or distribute your information to any third party except trusted service providers involved in payment processing, logistics, and website operations. All data is stored securely and handled as per applicable Indian data protection guidelines.</p><p>By using our website, you agree to the collection and use of your information as described in this policy. If you have any questions or wish to update or remove your data, please contact our support team.</p>",
+  "wp_slug": "privacy-policy-2"
+ },
+ {
+  "slug": "about",
+  "title": "About us",
+  "content_html": "<p><strong>Gnananetra Industries Private Limited</strong> is committed to delivering reliable office supplies and advanced electronic products across India. Our product range includes A4 papers, Printing Supplies, Stationery, Printers, Laptops, Desktops, Mobile Phones, And Essential It Accessories.</p><p>We understand the needs of businesses and institutions and provide end-to-end product solutions with competitive pricing, flexible order quantities, and efficient delivery systems. Our reputation is built on trust, transparency, and customer satisfaction.</p><p>With a growing presence and a strong vendor network, we are continuously expanding our portfolio to serve the evolving demands of the modern workplace.</p><h3>Our Vision</h3><p>To become a trusted national leader in supplying quality office essentials and electronics, delivering reliable products, innovative solutions, and exceptional service that empower businesses, institutions, and individuals to work smarter and achieve more.</p><h3>Our Mission</h3><p>Our mission is to provide high-quality office supplies and electronic products with reliability, competitive pricing, and on-time delivery, while creating long-term customer value through transparency, service excellence, and continuous improvement.</p>",
+  "wp_slug": "about-us"
+ }
+]

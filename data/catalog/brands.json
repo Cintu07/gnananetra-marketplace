@@ -1,0 +1,86 @@
+[
+ {
+  "wp_id": 127,
+  "name": "Acer",
+  "slug": "acer",
+  "image": null
+ },
+ {
+  "wp_id": 136,
+  "name": "Acerpure",
+  "slug": "acerpure",
+  "image": null
+ },
+ {
+  "wp_id": 141,
+  "name": "BlueStar",
+  "slug": "bluestar",
+  "image": null
+ },
+ {
+  "wp_id": 106,
+  "name": "Brother",
+  "slug": "brother",
+  "image": null
+ },
+ {
+  "wp_id": 101,
+  "name": "Canon",
+  "slug": "canon",
+  "image": null
+ },
+ {
+  "wp_id": 116,
+  "name": "Eaton",
+  "slug": "eaton",
+  "image": null
+ },
+ {
+  "wp_id": 110,
+  "name": "Epson",
+  "slug": "epson",
+  "image": null
+ },
+ {
+  "wp_id": 144,
+  "name": "Garuda Aerospace",
+  "slug": "garuda-aerospace",
+  "image": null
+ },
+ {
+  "wp_id": 60,
+  "name": "HP",
+  "slug": "hp",
+  "image": null
+ },
+ {
+  "wp_id": 123,
+  "name": "Mantra",
+  "slug": "mantra",
+  "image": null
+ },
+ {
+  "wp_id": 105,
+  "name": "Pantum",
+  "slug": "pantum",
+  "image": null
+ },
+ {
+  "wp_id": 124,
+  "name": "Paseo",
+  "slug": "paseo",
+  "image": null
+ },
+ {
+  "wp_id": 114,
+  "name": "Tvs",
+  "slug": "tvs",
+  "image": null
+ },
+ {
+  "wp_id": 142,
+  "name": "Voltas",
+  "slug": "voltas",
+  "image": null
+ }
+]

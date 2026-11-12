@@ -1,0 +1,372 @@
+[
+ {
+  "wp_id": 138,
+  "name": "1.5 Ton 3 Star",
+  "wp_name": "1.5 Ton 3 star",
+  "slug": "1-5-ton-3-star",
+  "parent_slug": "air-conditioner",
+  "description": "",
+  "image": null,
+  "sort": 1
+ },
+ {
+  "wp_id": 139,
+  "name": "1.5 Ton 5 Star",
+  "wp_name": "1.5 Ton 5 Star",
+  "slug": "1-5-ton-5-star",
+  "parent_slug": "air-conditioner",
+  "description": "",
+  "image": null,
+  "sort": 2
+ },
+ {
+  "wp_id": 137,
+  "name": "2 Ton 3 Star",
+  "wp_name": "2.0 Ton 3 Star",
+  "slug": "2-0-ton-3-star",
+  "parent_slug": "air-conditioner",
+  "description": "",
+  "image": null,
+  "sort": 3
+ },
+ {
+  "wp_id": 140,
+  "name": "2 Ton 5 Star",
+  "wp_name": "2.0 Ton 5 Star",
+  "slug": "2-0-ton-5-star",
+  "parent_slug": "air-conditioner",
+  "description": "",
+  "image": null,
+  "sort": 4
+ },
+ {
+  "wp_id": 135,
+  "name": "Air Conditioners",
+  "wp_name": "Air Conditioner",
+  "slug": "air-conditioner",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 5
+ },
+ {
+  "wp_id": 145,
+  "name": "Drones",
+  "wp_name": "Drones",
+  "slug": "drones",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 7
+ },
+ {
+  "wp_id": 133,
+  "name": "Entry Level Desktops",
+  "wp_name": "Entry Level",
+  "slug": "entry-level-desktops",
+  "parent_slug": "desktops",
+  "description": "",
+  "image": null,
+  "sort": 2
+ },
+ {
+  "wp_id": 134,
+  "name": "Mid Range Desktops",
+  "wp_name": "Mid Level",
+  "slug": "mid-level",
+  "parent_slug": "desktops",
+  "description": "",
+  "image": null,
+  "sort": 3
+ },
+ {
+  "wp_id": 113,
+  "name": "Cash Counters",
+  "wp_name": "Cash Counter",
+  "slug": "cash-counter",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 6
+ },
+ {
+  "wp_id": 97,
+  "name": "Desktops",
+  "wp_name": "Desktops",
+  "slug": "desktops",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 3
+ },
+ {
+  "wp_id": 129,
+  "name": "High-End Desktops",
+  "wp_name": "High Level Desktop",
+  "slug": "high-level-desktop",
+  "parent_slug": "desktops",
+  "description": "",
+  "image": null,
+  "sort": 4
+ },
+ {
+  "wp_id": 128,
+  "name": "All-in-One PCs",
+  "wp_name": "All In One Pc",
+  "slug": "all-in-one-pc",
+  "parent_slug": "desktops",
+  "description": "",
+  "image": null,
+  "sort": 1
+ },
+ {
+  "wp_id": 122,
+  "name": "Fingerprint Scanners",
+  "wp_name": "Finger Print Scanner",
+  "slug": "finger-print-scanner",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 8
+ },
+ {
+  "wp_id": 99,
+  "name": "IT Accessories",
+  "wp_name": "IT Accessories",
+  "slug": "it-accessories",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 57
+ },
+ {
+  "wp_id": 96,
+  "name": "Laptops",
+  "wp_name": "Laptops",
+  "slug": "laptops",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 2
+ },
+ {
+  "wp_id": 131,
+  "name": "Entry Level Laptops",
+  "wp_name": "Entry Level",
+  "slug": "entry-level",
+  "parent_slug": "laptops",
+  "description": "",
+  "image": null,
+  "sort": 1
+ },
+ {
+  "wp_id": 130,
+  "name": "Mid Range Laptops",
+  "wp_name": "Mid Level Laptop",
+  "slug": "mid-level-laptop",
+  "parent_slug": "laptops",
+  "description": "",
+  "image": null,
+  "sort": 2
+ },
+ {
+  "wp_id": 132,
+  "name": "High-End Laptops",
+  "wp_name": "High-End-Laptop",
+  "slug": "high-end-laptop",
+  "parent_slug": "laptops",
+  "description": "",
+  "image": null,
+  "sort": 3
+ },
+ {
+  "wp_id": 115,
+  "name": "UPS",
+  "wp_name": "Line Interactive UPS",
+  "slug": "line-interactive-ups",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 4
+ },
+ {
+  "wp_id": 121,
+  "name": "0.6 KVA",
+  "wp_name": "0.6 KVA",
+  "slug": "0-6-kva",
+  "parent_slug": "line-interactive-ups",
+  "description": "",
+  "image": null,
+  "sort": 63
+ },
+ {
+  "wp_id": 120,
+  "name": "0.65 KVA",
+  "wp_name": "0.65 KVA",
+  "slug": "0-65-kva",
+  "parent_slug": "line-interactive-ups",
+  "description": "",
+  "image": null,
+  "sort": 64
+ },
+ {
+  "wp_id": 119,
+  "name": "0.8 KVA",
+  "wp_name": "0.8 KVA",
+  "slug": "0-8-kva",
+  "parent_slug": "line-interactive-ups",
+  "description": "",
+  "image": null,
+  "sort": 65
+ },
+ {
+  "wp_id": 117,
+  "name": "1.0 KVA",
+  "wp_name": "1.0 KVA",
+  "slug": "1-0-kva",
+  "parent_slug": "line-interactive-ups",
+  "description": "",
+  "image": null,
+  "sort": 66
+ },
+ {
+  "wp_id": 118,
+  "name": "2.0 KVA",
+  "wp_name": "2.0 KVA",
+  "slug": "2-0-kva",
+  "parent_slug": "line-interactive-ups",
+  "description": "",
+  "image": null,
+  "sort": 67
+ },
+ {
+  "wp_id": 98,
+  "name": "Mobile",
+  "wp_name": "Mobile",
+  "slug": "mobile",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 68
+ },
+ {
+  "wp_id": 125,
+  "name": "Napkins",
+  "wp_name": "Napkins",
+  "slug": "napkins",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 9
+ },
+ {
+  "wp_id": 95,
+  "name": "Office Stationery",
+  "wp_name": "Office Stationery",
+  "slug": "office-stationery",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 70
+ },
+ {
+  "wp_id": 94,
+  "name": "Printers",
+  "wp_name": "Printer",
+  "slug": "printer",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 1
+ },
+ {
+  "wp_id": 103,
+  "name": "Laser and Inkjet Printers",
+  "wp_name": "Computer Printer (V2)",
+  "slug": "computer-printer-v2",
+  "parent_slug": "printer",
+  "description": "",
+  "image": null,
+  "sort": 2
+ },
+ {
+  "wp_id": 109,
+  "name": "Dot Matrix Printers",
+  "wp_name": "Dot Matrix",
+  "slug": "dot-matrix",
+  "parent_slug": "printer",
+  "description": "",
+  "image": null,
+  "sort": 5
+ },
+ {
+  "wp_id": 107,
+  "name": "Fax Machines",
+  "wp_name": "Fax",
+  "slug": "fax",
+  "parent_slug": "printer",
+  "description": "",
+  "image": null,
+  "sort": 7
+ },
+ {
+  "wp_id": 102,
+  "name": "Multifunction Printers",
+  "wp_name": "Multifunction Machine MFM (V2)",
+  "slug": "multifunction-machine-mfm-v2",
+  "parent_slug": "printer",
+  "description": "",
+  "image": null,
+  "sort": 1
+ },
+ {
+  "wp_id": 112,
+  "name": "Photo Printers",
+  "wp_name": "photo printer",
+  "slug": "photo-printer",
+  "parent_slug": "printer",
+  "description": "",
+  "image": null,
+  "sort": 3
+ },
+ {
+  "wp_id": 108,
+  "name": "Scanners",
+  "wp_name": "Scanner",
+  "slug": "scanner",
+  "parent_slug": "printer",
+  "description": "",
+  "image": null,
+  "sort": 6
+ },
+ {
+  "wp_id": 111,
+  "name": "Single Function Printers",
+  "wp_name": "Single function machine",
+  "slug": "single-function-machine",
+  "parent_slug": "printer",
+  "description": "",
+  "image": null,
+  "sort": 4
+ },
+ {
+  "wp_id": 100,
+  "name": "Printer Accessories",
+  "wp_name": "Printer Accessories",
+  "slug": "printer-accessories",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 79
+ },
+ {
+  "wp_id": 126,
+  "name": "Toilet Rolls",
+  "wp_name": "Toilet Rolls",
+  "slug": "toilet-rolls",
+  "parent_slug": null,
+  "description": "",
+  "image": null,
+  "sort": 10
+ }
+]
