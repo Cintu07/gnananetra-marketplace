@@ -90,9 +90,9 @@ export const DEFAULT_SETTINGS: Settings = {
     ],
   },
   seo: {
-    title: "Gnananetra | Printers, laptops, desktops and office technology",
+    title: "Gnananetra Marketplace | Buy from many sellers, sell your own products",
     description:
-      "Buy printers, laptops, desktops, all-in-one PCs, UPS, air conditioners and office equipment from Gnananetra Industries, Vijayawada. Genuine products, GST invoice, delivery across India.",
+      "Shop printers, laptops, UPS, air conditioners and office technology from Gnananetra and approved sellers, or open your own store and start selling. GST invoice on every order.",
   },
   invoice: {
     terms: "Goods once sold are covered by the manufacturer's warranty. Subject to Vijayawada jurisdiction.",
