@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  // Gnananetra Marketplace. NOT deployed. The Cloudflare account is shared with other live apps
+  // (gnananetra, crm-production, gnananetra-digital-estamp, gncs-tracker-api): keep this name unique.
+  "name": "gnananetra-marketplace",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2026-10-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": { "directory": ".open-next/assets", "binding": "ASSETS" },
+  "services": [{ "binding": "WORKER_SELF_REFERENCE", "service": "gnananetra-marketplace" }],
+  "observability": { "enabled": true },
+  "d1_databases": [
+    { "binding": "DB", "database_name": "gnananetra-marketplace", "database_id": "REPLACE_WITH_D1_ID", "migrations_dir": "drizzle" },
+    { "binding": "NEXT_TAG_CACHE_D1", "database_name": "gnananetra-marketplace-tags", "database_id": "REPLACE_WITH_TAGS_D1_ID" }
+  ],
+  "r2_buckets": [
+    { "binding": "NEXT_INC_CACHE_R2_BUCKET", "bucket_name": "gnananetra-marketplace-cache" },
+    { "binding": "MEDIA", "bucket_name": "gnananetra-marketplace-media" }
+  ],
+  "vars": { "NEXT_PUBLIC_SITE_URL": "http://localhost:3002", "EMAIL_FROM": "Gnananetra <orders@gnananetra.com>" }
+}
