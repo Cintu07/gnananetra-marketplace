@@ -21,6 +21,7 @@
     "race": "tsx --env-file-if-exists=.env.local scripts/race.ts",
     "audit:mobile": "node --env-file-if-exists=.env.local scripts/mobile-audit.mjs",
     "check": "npm run typecheck && npm run build",
+    "db:push:remote": "tsx scripts/push-remote.mjs",
     "db:migrate:remote": "wrangler d1 migrations apply gnananetra-marketplace --remote",
     "import": "tsx --env-file-if-exists=.env.local scripts/import-catalog.ts"
   },
